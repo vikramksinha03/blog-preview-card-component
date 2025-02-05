@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://vikramksinha03.github.io/blog-preview-card-component/)
+- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-component-ocsKmwPu3g
+- Live Site URL: https://vikramksinha03.github.io/blog-preview-card-component/
 
 ### Built with
 
@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - https://vikramksinha03.github.io/blog-preview-card-component/
+- Frontend Mentor - https://www.frontendmentor.io/profile/vikramksinha03
