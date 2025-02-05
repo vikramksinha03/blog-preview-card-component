@@ -47,7 +47,7 @@ body {
   margin-right: 24px;
 }
 
-article {
+h2 {
   width: 82px;
   height: 29px;
   color: var(--Gray950);
@@ -80,7 +80,7 @@ h1:hover {
   cursor: pointer;
 }
 
-section {
+section > p {
   color: var(--Gray500);
   font-size: 16px;
   line-height: 150%;
